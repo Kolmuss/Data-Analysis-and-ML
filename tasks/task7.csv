@@ -1,0 +1,21 @@
+season,destination,flights
+autumn,ALA - TSE,101
+autumn,TSE - ALA,100
+autumn,ALA - TSE,94
+autumn,TSE - ALA,87
+autumn,TSE - ALA,80
+spring,ALA - TSE,21
+spring,TSE - ALA,17
+spring,ALA - IST,9
+spring,ALA - CIT,6
+spring,TSE - CIT,6
+summer,TSE - ALA,102
+summer,ALA - TSE,89
+summer,TSE - ALA,64
+summer,ALA - IST,52
+summer,ALA - TSE,48
+winter,ALA - TSE,121
+winter,TSE - ALA,118
+winter,ALA - IST,32
+winter,ALA - CIT,31
+winter,TSE - CIT,30

@@ -1,0 +1,423 @@
+dep_name,traveler_id,flights
+Administrative Services,11911,21
+Aircraft Presentation Team,12595,1
+Aircraft Presentation Team,12384,1
+Business Class Lounge at Astana,12145,3
+Business Class Lounge at Astana,12156,18
+Cabin Services,12102,1
+Cabin Services,12750,1
+Cabin Services,12223,1
+Cabin Services,12579,1
+Cabin Services,12110,1
+Cabin Services,12222,1
+Cabin Services,12604,2
+Cabin Services,12240,2
+Cabin Services,12254,2
+Cabin Services,12104,2
+Cabin Services,12250,2
+Cabin Services,12583,3
+Cabin Services,12060,3
+Cabin Services,12782,4
+Cabin Services,12052,5
+Cabin Services,12234,5
+Cabin Services,12100,5
+Cabin Services,12248,8
+Cabin Services,12055,16
+Cabin Services,12103,26
+Cabin Services Astana,12457,1
+Cabin Services Astana,12464,1
+Cabin Services Astana,12123,1
+Cabin Services Astana,12460,1
+Cabin Services Astana,12352,1
+Cabin Services Astana,12332,1
+Cabin Services Astana,12392,2
+Cabin Services Astana,12380,2
+Cabin Services Astana,12292,2
+Cabin Services Astana,12122,2
+Cabin Services Astana,11887,2
+Cabin Services Astana,12330,2
+Cabin Services Astana,11947,2
+Cabin Services Astana,12381,2
+Cabin Services Astana,11940,2
+Cabin Services Astana,12678,2
+Cabin Services Astana,12367,2
+Cabin Services Astana,12118,2
+Cabin Services Astana,11888,3
+Cabin Services Astana,12268,3
+Cabin Services Astana,12661,3
+Cabin Services Astana,12680,3
+Cabin Services Astana,12465,3
+Cabin Services Astana,11900,3
+Cabin Services Astana,12454,3
+Cabin Services Astana,12170,3
+Cabin Services Astana,12261,3
+Cabin Services Astana,12117,4
+Cabin Services Astana,12667,5
+Cabin Services Astana,12294,5
+Cabin Services Astana,11952,6
+Cabin Services Astana,11901,6
+Cabin Services Astana,12343,6
+Cabin Services Astana,12306,6
+Cabin Services Astana,11917,8
+Cabin Services Astana,12684,8
+Cabin Services Astana,12300,8
+Cabin Services Astana,12453,8
+Cabin Services Astana,11949,8
+Cabin Services Astana,12120,8
+Cabin Services Astana,12463,9
+Cabin Services Astana,12171,10
+Cabin Services Astana,11953,10
+Cabin Services Astana,12290,10
+Cabin Services Astana,12363,10
+Cabin Services Astana,12169,12
+Cabin Services Astana,12387,13
+Cabin Services Astana,12304,15
+Cabin Services Astana,11878,17
+Cabin Services Astana,11889,22
+Cabin Services Astana,11886,23
+Cabin Services Astana,11948,24
+Cabin Services Astana,12266,27
+Cabin Services Astana,11954,30
+Cargo Sales,12594,1
+Cash Control Accounts,12253,1
+Cash Control Accounts,12126,9
+Cleaning,12121,1
+Cleaning,11946,1
+Cleaning,11992,1
+Cleaning,11920,1
+Cleaning,12243,1
+Commercial Engineering,11996,5
+Commercial planning,12008,1
+Commercial planning,12717,4
+Commercial Stores,12586,2
+Commercial Stores,12488,4
+Commercial Stores,12673,5
+Composite Repair Division,11983,3
+Composite Repair Division,12013,11
+Contact centre,12070,1
+Contact centre,12114,2
+Contact centre,12079,2
+Contact centre,12206,2
+Contact centre,12004,3
+Contact centre,12098,3
+Contact centre,12078,3
+Contact centre,11988,4
+Contact centre,12208,5
+Contact centre,12058,5
+Contact centre,12020,5
+Contact centre,12236,5
+Contact centre,12204,6
+Contact centre,12051,8
+Contact centre,12074,8
+Contact centre,12087,9
+Contact centre,12000,17
+Contact centre,12066,25
+Contact centre,12064,26
+E - commerce,12688,1
+E - commerce,11922,2
+E - commerce,12386,3
+E - commerce,12681,3
+E - commerce,12057,6
+E - commerce,11926,40
+Engine Management,11995,3
+Engineering and Maintenance,12547,1
+Engineering and Maintenance,12712,1
+Engineering and Maintenance,12558,1
+Engineering and Maintenance,12554,1
+Engineering and Maintenance,12044,1
+Engineering and Maintenance,11937,1
+Engineering and Maintenance,12571,1
+Engineering and Maintenance,12542,1
+Engineering and Maintenance,12338,1
+Engineering and Maintenance,12021,1
+Engineering and Maintenance,12033,1
+Engineering and Maintenance,12308,1
+Engineering and Maintenance,12776,1
+Engineering and Maintenance,11938,2
+Engineering and Maintenance,11928,2
+Engineering and Maintenance,12538,2
+Engineering and Maintenance,12559,2
+Engineering and Maintenance,12555,2
+Engineering and Maintenance,11941,3
+Engineering and Maintenance,12346,3
+Engineering and Maintenance,12536,3
+Engineering and Maintenance,12339,3
+Engineering and Maintenance,11934,4
+Engineering and Maintenance,12345,4
+Engineering and Maintenance,12038,4
+Engineering and Maintenance,12246,4
+Engineering and Maintenance,12543,5
+Engineering and Maintenance,11929,5
+Engineering and Maintenance,12432,5
+Engineering and Maintenance,12040,5
+Engineering and Maintenance,11931,5
+Engineering and Maintenance,12544,6
+Engineering and Maintenance,12043,6
+Engineering and Maintenance,12553,6
+Engineering and Maintenance,12309,6
+Engineering and Maintenance,12049,7
+Engineering and Maintenance,11925,7
+Engineering and Maintenance,11936,7
+Engineering and Maintenance,12031,7
+Engineering and Maintenance,12340,8
+Engineering and Maintenance,12045,8
+Engineering and Maintenance,12568,9
+Engineering and Maintenance,12550,9
+Engineering and Maintenance,12056,9
+Engineering and Maintenance,12552,9
+Engineering and Maintenance,11932,10
+Engineering and Maintenance,11930,10
+Engineering and Maintenance,12541,10
+Engineering and Maintenance,12556,10
+Engineering and Maintenance,12046,11
+Engineering and Maintenance,12307,11
+Engineering and Maintenance,12036,11
+Engineering and Maintenance,12327,13
+Engineering and Maintenance,12022,14
+Engineering and Maintenance,11973,14
+Engineering and Maintenance,12037,15
+Engineering and Maintenance,12042,17
+Engineering and Maintenance,12366,20
+Engineering Finance,11870,8
+Financial Accounting,13041,1
+Financial Accounting,12483,2
+Financial Accounting,12148,2
+Financial Accounting,12789,3
+Financial Accounting,12672,5
+Financial Accounting,12775,5
+Financial Accounting,12513,25
+Financial compliance and reporting,12794,2
+Flight Operations Support,12609,7
+Ground Services,12481,1
+Ground Services,12649,1
+Ground Services,12069,1
+Ground Services,12709,1
+Ground Services,12766,2
+Ground Services,12186,4
+Ground Services,12178,4
+Ground Services,12640,5
+Ground Services,12199,5
+Ground Services,12147,7
+Ground Services,12076,14
+Ground Services,12054,17
+Ground Services,12028,25
+Ground Services,12187,25
+Ground Services at Almaty,12722,1
+Ground Services at Almaty,12324,1
+Ground Services at Almaty,12523,1
+Ground Services at Almaty,11877,1
+Ground Services at Almaty,12526,1
+Ground Services at Almaty,12603,1
+Ground Services at Almaty,12741,1
+Ground Services at Almaty,12501,1
+Ground Services at Almaty,12174,1
+Ground Services at Almaty,12751,1
+Ground Services at Almaty,12368,2
+Ground Services at Almaty,12606,2
+Ground Services at Almaty,11876,2
+Ground Services at Almaty,12403,2
+Ground Services at Almaty,12626,3
+Ground Services at Almaty,12312,3
+Ground Services at Almaty,12411,3
+Ground Services at Almaty,12153,3
+Ground Services at Almaty,11875,3
+Ground Services at Almaty,12039,3
+Ground Services at Almaty,11965,3
+Ground Services at Almaty,11980,4
+Ground Services at Almaty,11960,4
+Ground Services at Almaty,12001,4
+Ground Services at Almaty,11880,5
+Ground Services at Almaty,11966,5
+Ground Services at Almaty,12733,5
+Ground Services at Almaty,12320,5
+Ground Services at Almaty,12285,6
+Ground Services at Almaty,12181,8
+Ground Services at Almaty,12007,9
+Ground Services at Almaty,12026,11
+Ground Services at Almaty,12093,13
+Ground Services at Astana,12442,1
+Ground Services at Astana,12693,1
+Ground Services at Astana,12601,1
+Ground Services at Astana,12730,1
+Ground Services at Astana,11746,1
+Ground Services at Astana,12316,1
+Ground Services at Astana,12705,1
+Ground Services at Astana,12337,1
+Ground Services at Astana,12525,1
+Ground Services at Astana,12349,1
+Ground Services at Astana,12273,2
+Ground Services at Astana,12406,3
+Ground Services at Astana,11982,3
+Ground Services at Astana,12301,3
+Ground Services at Astana,11907,3
+Ground Services at Astana,12447,4
+Ground Services at Astana,11970,4
+Ground Services at Astana,11967,5
+Ground Services at Astana,12224,5
+Ground Services at Astana,12484,5
+Ground Services at Astana,12229,6
+Ground Services at Astana,11955,6
+Ground Services at Astana,12344,7
+Ground Services at Astana,11895,7
+Ground Services at Astana,11612,7
+Ground Services at Astana,12448,7
+Ground Services at Astana,12408,7
+Ground Services at Astana,12003,8
+Ground Services at Astana,11977,9
+Ground Services at Astana,12177,9
+Ground Services at Astana,12184,9
+Ground Services at Astana,11893,10
+Ground Services at Astana,12326,12
+Ground Services at Astana,12127,16
+Ground Services at Astana,12410,17
+Ground Services at Astana,11882,21
+Ground Services Finance,11961,2
+Ground Services Finance,12506,3
+Ground Services Finance,12361,6
+Ground Services Russia and CIS,12405,1
+"Health, Safety and Environment",12451,3
+"Health, Safety and Environment",12446,4
+"Health, Safety and Environment",11989,20
+Human Resources and Administration Department,12373,1
+Human Resources and Administration Department,12744,1
+Human Resources and Administration Department,12758,2
+Human Resources and Administration Department,11944,4
+Inflight Services Finance,12364,19
+IT and Ecommerce Department,12272,1
+IT and Ecommerce Department,12784,1
+IT and Ecommerce Department,12274,2
+IT and Ecommerce Department,12576,4
+IT and Ecommerce Department,11968,7
+IT and Ecommerce Department,12418,10
+IT and Ecommerce Department,12067,14
+Legal Department,12157,1
+Legal Department,12284,3
+"Maintenance, Engineering and Service Delivery Dpt",12012,1
+"Maintenance, Engineering and Service Delivery Dpt",12238,1
+"Maintenance, Engineering and Service Delivery Dpt",12230,2
+"Maintenance, Engineering and Service Delivery Dpt",12133,4
+"Maintenance, Engineering and Service Delivery Dpt",12518,5
+"Maintenance, Engineering and Service Delivery Dpt",12660,5
+"Maintenance, Engineering and Service Delivery Dpt",12397,6
+Management Accounting,12632,2
+Management Accounting,12505,4
+Marketing and Sales,12325,2
+Marketing and Sales,12348,6
+Marketing and Sales Finance,12762,7
+Material Planning and Monitoring Department,12394,2
+Network Revenue Management,12231,1
+Network Revenue Management,12524,2
+Network Revenue Management,12271,4
+Network Revenue Management,12270,5
+Network Revenue Management,12532,6
+Network Revenue Management,11874,6
+Operating Flight Boeing Airbus and Embraer,11978,3
+Operating Flight Boeing Airbus and Embraer,12128,9
+Operations Control,12436,1
+Operations Control,11890,1
+Operations Control,12194,2
+Operations Control,12192,2
+Operations Control,12068,3
+Operations Control,12435,3
+Operations Control,12111,8
+Operations Control,12096,15
+Operations Control,11918,21
+Operations Crew Planning,12116,1
+Operations Crew Planning,12212,1
+Operations Crew Planning,12106,1
+Operations Crew Planning,12201,1
+Operations Crew Planning,12430,2
+Operations Crew Planning,12220,2
+Operations Crew Planning,12205,2
+Operations Crew Planning,12210,3
+Operations Crew Planning,12607,3
+Operations Crew Planning,12124,4
+Operations Crew Planning,12217,6
+Operations Crew Planning,12168,6
+Operations Crew Planning,12282,7
+Operations Crew Planning,12075,7
+Passenger Sales,12469,7
+Planning and Commercial,12590,2
+Procurement,12480,2
+Production Controll Department,11905,3
+Provincial Ground Services,12608,1
+Provincial Ground Services,12333,3
+Provincial Ground Services,12516,3
+Provincial Ground Services,12502,3
+Provincial Ground Services,12139,8
+Recruitment and Adaptation,12415,4
+Recruitment and Adaptation,11984,8
+Representative Office Moscow,12109,1
+Reservation and Ticketing,12597,1
+Reservation and Ticketing,12496,1
+Reservation and Ticketing,12214,1
+Reservation and Ticketing,12630,1
+Reservation and Ticketing,11958,1
+Reservation and Ticketing,12288,1
+Reservation and Ticketing,12146,1
+Reservation and Ticketing,12499,1
+Reservation and Ticketing,11997,1
+Reservation and Ticketing,12493,1
+Reservation and Ticketing,12379,1
+Reservation and Ticketing,12961,1
+Reservation and Ticketing,12495,1
+Reservation and Ticketing,12494,1
+Reservation and Ticketing,12002,2
+Reservation and Ticketing,12360,2
+Reservation and Ticketing,12487,2
+Reservation and Ticketing,11956,2
+Reservation and Ticketing,12492,2
+Reservation and Ticketing,12500,2
+Reservation and Ticketing,12466,2
+Reservation and Ticketing,11974,2
+Reservation and Ticketing,12433,3
+Reservation and Ticketing,12625,3
+Reservation and Ticketing,12283,3
+Reservation and Ticketing,11959,3
+Reservation and Ticketing,12265,4
+Reservation and Ticketing,12258,4
+Reservation and Ticketing,12142,4
+Reservation and Ticketing,12140,4
+Reservation and Ticketing,12963,4
+Reservation and Ticketing,11990,5
+Reservation and Ticketing,11950,5
+Reservation and Ticketing,12331,6
+Reservation and Ticketing,12009,6
+Reservation and Ticketing,12081,7
+Reservation and Ticketing,12356,7
+Reservation and Ticketing,12108,7
+Reservation and Ticketing,12382,9
+Reservation and Ticketing,12334,14
+Reservation and Ticketing,12207,14
+Reservation and Ticketing,12112,17
+Reservation and Ticketing,12092,18
+Revenue Accounting,12696,2
+Revenue Accounting,12818,4
+Revenue Accounting,12901,7
+Social Network,11894,12
+Station Maintenance Astana,12522,1
+Station Maintenance Astana,12422,1
+Station Maintenance Astana,12450,2
+Station Maintenance Astana,12514,3
+Station Maintenance Astana,12198,4
+Station Maintenance Astana,12195,7
+Station Maintenance Astana,12176,12
+Station Maintenance Astana,12434,15
+Station Maintenance Astana,12006,23
+Strategy and Development,11916,11
+Technical stores,11985,2
+Transport,11972,1
+Transport,12015,1
+Transport,12370,2
+Transport,11884,2
+Transport,12090,2
+Transport,11904,2
+Transport,12517,2
+Transport,12478,3
+Transport,12286,3
+Transport,12088,3
+Transport,11923,4
+Transport,11924,8
+Transport,11902,9
+"Transport, administration services, HSE",12837,1
+"Transport, administration services, HSE",12507,2
